@@ -1,5 +1,5 @@
 ---
-name: cyber-prism
+name: quilsec
 description: >
   Unified cybersecurity threat intelligence lookup across 33 Living-off-the-Land (LOTL)
   and offensive security reference databases plus 512 purpose-built hack tools
@@ -25,7 +25,7 @@ user-invocable: true
 disable-model-invocation: false
 ---
 
-# Cyber-Prism
+# QUILL Sec
 
 Unified offensive/defensive cybersecurity reference covering 33 Living-off-the-Land projects
 with 5,381+ entries PLUS 512 purpose-built offensive/defensive security tools (HackTools).
@@ -35,7 +35,7 @@ across the entire LOTL + HackTools ecosystem.
 
 ## When This Skill Is Invoked
 
-When this skill is loaded (either via `/cyber-prism` or auto-triggered), immediately perform
+When this skill is loaded (either via `/quilsec` or auto-triggered), immediately perform
 a full threat intelligence lookup using the user's query. Do not just describe what you could
 do -- actually do it. Follow the Lookup Procedure below end-to-end:
 
